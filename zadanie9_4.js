@@ -7,5 +7,5 @@ function drawTree(treeHeight) {
 		console.log(star);
 	}
 }
-treeHeight = 5;
+var treeHeight = 5;
 drawTree(treeHeight);
